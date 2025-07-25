@@ -1,0 +1,5 @@
+nglview
+ipywidgets
+pandas
+numpy
+mdtraj
